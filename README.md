@@ -5,7 +5,7 @@ Made for the I Love Science Game Jam 2022, Perth, Australia in 48 hours.
 
 ![alt text](https://github.com/davidswkong/ShooterGameAndStudy/blob/main/Shootergameandstudy.png?raw=true)
 
-Download for free on https://davidkong.itch.io/shootergameandstudy
+Download for free on https://davidkong.itch.io/shootergameandstudy (Zipped file size: ~599MB)
 
 ## Credits: 
 
